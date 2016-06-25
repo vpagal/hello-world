@@ -1,2 +1,2 @@
-!#/usr/lib/python3
+#!/usr/bin/python
 print("Hello World!!");
